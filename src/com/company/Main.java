@@ -19,7 +19,7 @@ public class Main {
 
         System.out.println("Your target heart rate zone should be between " + ((220 - age) * .5) + " and " + ((220-age) * .85));
 
-        System.out.println("random1");
+        System.out.println("random111");
 
 
 
